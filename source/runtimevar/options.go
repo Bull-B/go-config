@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/google/go-cloud/runtimevar/driver"
-	"github.com/micro/go-config/source"
+	"github.com/bull-b/go-config/source"
 )
 
 type driverWatcherKey struct{}

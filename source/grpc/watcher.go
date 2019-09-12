@@ -1,8 +1,8 @@
 package grpc
 
 import (
-	"github.com/micro/go-config/source"
-	proto "github.com/micro/go-config/source/grpc/proto"
+	"github.com/bull-b/go-config/source"
+	proto "github.com/bull-b/go-config/source/grpc/proto"
 )
 
 type watcher struct {
